@@ -18,7 +18,7 @@ export default Vue.extend({
   props: {
     image: {
       type: String,
-      default: require('assets/images/opengraph.jpg')
+      default: require('assets/images/opengraph.png')
     },
     baseUrl:{
       type: String,
