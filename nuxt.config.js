@@ -1,4 +1,11 @@
+import {resolve} from 'path'
 export default {
+  alias: {
+    'images': resolve(__dirname, './assets/images'),
+    'styles': resolve(__dirname, './assets/styles'),
+    'data': resolve(__dirname, './assets/other/data'),
+    'icons': resolve(__dirname, './assets/icons'),
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'nuxt-example',
