@@ -22,7 +22,7 @@ export default Vue.extend({
         { hid: 'og-type', property: 'og:type', content: 'website' },
         { hid: 'og-title', property: 'og:title', content: 'Te amo Jessica!' },
         { hid: 'og-desc', property: 'og:description', content: 'This is a sweet post' },
-        { hid: 'og-image', property: 'og:image', content: './assets/styles/05.png'},
+        { hid: 'og-image', property: 'og:image', content: '../assets/images/05.png'},
         { hid: 'og-url', property: 'og:url', content: 'https://nuxt-study.vercel.app/' },
       ]
     }
