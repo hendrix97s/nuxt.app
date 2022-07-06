@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <Menu></Menu>
-
   </div>
 </template>
 
@@ -16,13 +15,23 @@ import Menu from '~/components/Menu.vue'
 export default Vue.extend({
   name: "IndexPage",
   components: { Test, Menu },
+  props: {
+    image: {
+      type: String,
+      default: require('assets/images/05.png')
+    },
+    baseUrl:{
+      type: String,
+      default: __dirname
+    }
+  },
   head(){
     return {
       meta: [
         { hid: 'og-type', property: 'og:type', content: 'website' },
         { hid: 'og-title', property: 'og:title', content: 'Te amo Jessica!' },
         { hid: 'og-desc', property: 'og:description', content: 'This is a sweet post' },
-        { hid: 'og-image', property: 'og:image', content: '../assets/images/05.png'},
+        { hid: 'og-image', property: 'og:image', content: this.image},
         { hid: 'og-url', property: 'og:url', content: 'https://nuxt-study.vercel.app/' },
       ]
     }
