@@ -28,11 +28,11 @@ export default Vue.extend({
   head(){
     return {
       meta: [
-        { hid: 'og-type', property: 'og:type', content: 'website' },
-        { hid: 'og-title', property: 'og:title', content: 'Te amo Jessica!' },
-        { hid: 'og-desc', property: 'og:description', content: 'This is a sweet post' },
         { hid: 'og-image', property: 'og:image', content: this.image},
         { hid: 'og-url', property: 'og:url', content: 'https://nuxt-study.vercel.app/' },
+        { hid: 'og-title', property: 'og:title', content: 'Testes com opengraph' },
+        { hid: 'og-desc', property: 'og:description', content: 'This is a sweet post' },
+        { hid: 'og-type', property: 'og:type', content: 'website' },
       ]
     }
   }
