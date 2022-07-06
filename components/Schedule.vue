@@ -44,12 +44,6 @@
 <script>
 export default {
   name: 'Schedule',
-  el: '#example-1',
-  data: {
-    items: [
-      { message: 'Algo' },
-      { message: 'Outro' }
-    ]
-  }
+  
 }
 </script>
