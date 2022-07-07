@@ -32,14 +32,13 @@
     </div>
 
     <div class="name-developer absolute w-full text-center">
-        <h5 class="text-gray-100 text-2xl font-bold leading-tight">Junior Silava</h5>
+        <h5 class="text-gray-100 text-2xl font-bold leading-tight">Junior Silva</h5>
         <p class="text-gray-100 text-2xs font-light">Full-stack developer</p>
     </div>
 
-    <img class="logo-buzzvel absolute" src="~icons/buzzvel/logo-buzzvel.svg">
 
     <div class="footer absolute inset-x-0 bottom-0 left-0 pl-8">
-      <h2 class="mt-8 font-light">Trusted by dozens of Startup & Enterprise clients</h2>
+      <!-- <h2 class="mt-8 font-light">Trusted by dozens of Startup & Enterprise clients</h2>
       <div class="pt-6 flex">
         <img class="clients mr-6" src="~icons/clients/ey.svg" alt="">
         <img class="clients mr-6" src="~icons/clients/slb.svg" alt="">
@@ -54,8 +53,9 @@
         <img class="clients-other mr-6" src="~icons/clients/ptc.svg" alt="">
         <img class="clients-other mr-6" src="~icons/clients/oxy-1.svg" alt="">
         <img class="clients-other mr-6" src="~icons/clients/xlr8.svg" alt="">
-      </div>
+      </div> -->
     </div>
+      <img class="logo-buzzvel absolute" src="~icons/buzzvel/logo-buzzvel-black.svg">
   </div>
 <!-- 
     <div class="profile relative h-1/4 bg-gray-900 text-center ">

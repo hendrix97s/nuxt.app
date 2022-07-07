@@ -24,7 +24,7 @@
 
 .text-box{
   left: 4rem;
-  top: 6rem;
+  top: 7rem;
 }
 
 .text-box h2{
@@ -49,10 +49,9 @@
 }
 
 .logo-buzzvel {
-  /* left: 0; */
-
-  width: 3rem;
-  margin-top: 32rem;
+  left: 4rem;
+  width: 16rem;
+  margin-top: 28rem;
 }
 
 .footer{
@@ -60,7 +59,7 @@
   width: 30rem;
 
   background: url(../images/background-desk-companies.png);
-  background-position: -531px 0%;
+  background-position: -38rem 0%;
   background-repeat: no-repeat;
   background-size: cover;
   color: black;
