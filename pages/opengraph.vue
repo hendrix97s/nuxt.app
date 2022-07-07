@@ -7,14 +7,18 @@
     </div>
 
     <div class="text-box absolute color-black">
-      <h2 class="font-bold">What is Lorem Ipsum?</h2>
-      <p class="mt-2 font-light">
-        Lorem Ipsum is simply dummy text of the printing and <br>
-        typesetting industry. Lorem Ipsum has been the<br>
-        industry's standard dummy text ever since the 1500s.
+      <h2 class="font-bold">
+        We help you to<br>
+        bring your idea or<br>
+        product to life
+        </h2>
+      <p class="mt-4 font-light">
+        Reliable programming Laravel company from <br>
+        Portugal for growing startups and established<br>
+        businesses around the globe.
        </p>
         <div class="flex lg:pr-24">
-          <span class="mt-8 text-xl leading-5 let-talk-gradient font-medium mr-5 lg:block">Toutch in here</span>
+          <span class="mt-8 text-xl leading-5 let-talk-gradient font-medium mr-5 lg:block">Let's talk</span>
           <img class="cursor-pointer pt-1 mt-4 hover-let-talk" src="~images/button-let-talk.svg" title="button-let-talk" alt="button-let-talk">
         </div>
     </div>
