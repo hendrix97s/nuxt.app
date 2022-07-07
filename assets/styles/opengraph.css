@@ -23,26 +23,36 @@
 }
 
 .text-box{
-  left: 0;
-  top: 0;
-  margin-top: 4rem;
-  margin-left: 4rem;
+  left: 4rem;
+  top: 6rem;
 }
 
 .text-box h2{
-  font-size: xx-large;
-  line-height: 2.2rem;
+  font-size: 3rem;
+  line-height: 3rem;
+}
+
+.text-box div span{
+  font-size: 2rem;
 }
 
 .name-developer{
-  margin-top: 20rem;
+  margin-top: 21rem;
+}
+
+.name-developer h5{
+  font-size: 2rem;
+}
+.name-developer p{
+  line-height: 1.2rem;
+  font-size: 1.4rem;
 }
 
 .logo-buzzvel {
   /* left: 0; */
 
   width: 3rem;
-  margin-top: 31rem;
+  margin-top: 32rem;
 }
 
 .footer{

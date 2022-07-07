@@ -7,24 +7,24 @@
     </div>
 
     <div class="text-box absolute color-black">
-      <h2 class="font-bold">
+      <h2 class="font-light">
         We help you to<br>
         bring your idea or<br>
         product to life
         </h2>
-      <p class="mt-4 font-light">
+      <!-- <p class="mt-4 font-light">
         Reliable programming Laravel company from <br>
         Portugal for growing startups and established<br>
         businesses around the globe.
-       </p>
+       </p> -->
         <div class="flex lg:pr-24">
           <span class="mt-8 text-xl leading-5 let-talk-gradient font-medium mr-5 lg:block">Let's talk</span>
-          <img class="cursor-pointer pt-1 mt-4 hover-let-talk" src="~images/button-let-talk.svg" title="button-let-talk" alt="button-let-talk">
+          <img class="cursor-pointer pt-1 mt-4 hover-let-talk" src="~icons/buzzvel/button-let-talk.svg" title="button-let-talk" alt="button-let-talk">
         </div>
     </div>
 
     <div class="flex items-center justify-center profile text-center polygon">
-      <img src="~images/junior.jpeg" class="mx-auto polygon" alt="Avatar">
+      <img src="~images/employees/junior.jpeg" class="mx-auto polygon" alt="Avatar">
     </div>
 
     <div class="absolute emoji flex items-center justify-center profile text-center polygon">
@@ -32,28 +32,28 @@
     </div>
 
     <div class="name-developer absolute w-full text-center">
-        <h5 class="text-gray-100 text-2xl font-bold leading-tight">Junior Silva</h5>
+        <h5 class="text-gray-100 text-2xl font-bold leading-tight">Junior Silava</h5>
         <p class="text-gray-100 text-2xs font-light">Full-stack developer</p>
     </div>
 
-    <img class="logo-buzzvel absolute" src="~images/logo-buzzvel.svg">
+    <img class="logo-buzzvel absolute" src="~icons/buzzvel/logo-buzzvel.svg">
 
     <div class="footer absolute inset-x-0 bottom-0 left-0 pl-8">
       <h2 class="mt-8 font-light">Trusted by dozens of Startup & Enterprise clients</h2>
       <div class="pt-6 flex">
-        <img class="clients mr-6" src="~images/ey.svg" alt="">
-        <img class="clients mr-6" src="~images/slb.svg" alt="">
-        <img class="clients mr-6" src="~images/apt-feridas.svg" alt="">
-        <img class="clients mr-6" src="~images/bf.svg" alt="">
-        <img class="clients mr-6" src="~images/hotspotty.svg" alt="">
-        <img class="clients mr-6" src="~images/unk.svg" alt="">
+        <img class="clients mr-6" src="~icons/clients/ey.svg" alt="">
+        <img class="clients mr-6" src="~icons/clients/slb.svg" alt="">
+        <img class="clients mr-6" src="~icons/clients/apt-feridas.svg" alt="">
+        <img class="clients mr-6" src="~icons/clients/bf.svg" alt="">
+        <img class="clients mr-6" src="~icons/clients/hotspotty.svg" alt="">
+        <img class="clients mr-6" src="~icons/clients/unk.svg" alt="">
       </div>
       <div class="pt-4 flex">
-        <img class="clients-other mr-6" src="~images/comon.svg" alt="">
-        <img class="clients-other mr-6" src="~images/moita.svg" alt="">
-        <img class="clients-other mr-6" src="~images/ptc.svg" alt="">
-        <img class="clients-other mr-6" src="~images/oxy-1.svg" alt="">
-        <img class="clients-other mr-6" src="~images/xlr8.svg" alt="">
+        <img class="clients-other mr-6" src="~icons/clients/comon.svg" alt="">
+        <img class="clients-other mr-6" src="~icons/clients/moita.svg" alt="">
+        <img class="clients-other mr-6" src="~icons/clients/ptc.svg" alt="">
+        <img class="clients-other mr-6" src="~icons/clients/oxy-1.svg" alt="">
+        <img class="clients-other mr-6" src="~icons/clients/xlr8.svg" alt="">
       </div>
     </div>
   </div>
