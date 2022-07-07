@@ -1,2 +1,100 @@
-body {
+
+.container-card{
+
+}
+
+.card{
+  width: 356px;
+  height: 672px;
+}
+
+
+.card-info{
+  width: 22rem;
+  /* height: 42rem; */
+}
+
+.polygon{
+  clip-path: polygon(39% 1%,63% 1%,83% 11%,95% 28%,100% 50%,94.5% 73%,83.5% 89%,63% 99%,39% 99%,18% 90%,5% 72%,0% 50%,5% 28%,17% 11%);
+}
+
+.card-employee-top{
+  clip-path: polygon(0% 0%,100% 0%,100% 80%, 70% 94%, 30% 94%, 0% 80%);
+}
+
+.card-img-buzzvel{
+  margin-top: -4rem;
+  margin-left: 12rem;
+  width: 100px; 
+}
+
+.card-emoji{
+  margin-left: -9.5rem;
+  margin-top: -5rem;  
+  width: 5rem;
+  height: 5rem;
+  /* height: 13.5%; */
+}
+
+.card-img-emoji{
+  font-size: 3rem;
+  line-height: 5rem;
+  /* margin-left: 20px; */
+  /* position: absolute; */
+  /* margin-left: 20%; */
+  /* margin-top: 16%; */
+}
+
+.bg-color-black{
+  background-color: #000;
+}
+
+.bg-color-white{
+  background-color: #FFF;
+}
+
+.shadow{
+  box-shadow: 0px 3px 5px #888888;
+}
+
+.emoji-way-of-life{
+  display: inline-block;
+  /* padding-right:3px;  */
+  padding-top: 3px; 
+}
+
+
+.emoji-way-of-life img{
+  margin-top: 5px;
+}
+
+.icon-buzzvel{
+  width: 3.0rem;
+  position: relative;
+  margin-top: -4rem; 
+}
+
+.border{
+  border:1px solid black;
+}
+
+.name{
+  font-size: 2rem;
+
+}
+
+.office{
+  font-size: 1.2rem;
+}
+
+.qrcode{
+  width: 10rem;
+}
+
+@media (max-width: 321px) {
+  .card-img-buzzvel{
+      margin-top: -2rem;
+      margin-left: 9rem;
+      width: 100px; 
+  }
 }

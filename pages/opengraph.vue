@@ -12,11 +12,7 @@
         bring your idea or<br>
         product to life
         </h2>
-      <!-- <p class="mt-4 font-light">
-        Reliable programming Laravel company from <br>
-        Portugal for growing startups and established<br>
-        businesses around the globe.
-       </p> -->
+
         <div class="flex lg:pr-24">
           <span class="mt-8 text-xl leading-5 let-talk-gradient font-medium mr-5 lg:block">Let's talk</span>
           <img class="cursor-pointer pt-1 mt-4 hover-let-talk" src="~icons/buzzvel/button-let-talk.svg" title="button-let-talk" alt="button-let-talk">
@@ -36,33 +32,9 @@
         <p class="text-gray-100 text-2xs font-light">Full-stack developer</p>
     </div>
 
-
-    <div class="footer absolute inset-x-0 bottom-0 left-0 pl-8">
-      <!-- <h2 class="mt-8 font-light">Trusted by dozens of Startup & Enterprise clients</h2>
-      <div class="pt-6 flex">
-        <img class="clients mr-6" src="~icons/clients/ey.svg" alt="">
-        <img class="clients mr-6" src="~icons/clients/slb.svg" alt="">
-        <img class="clients mr-6" src="~icons/clients/apt-feridas.svg" alt="">
-        <img class="clients mr-6" src="~icons/clients/bf.svg" alt="">
-        <img class="clients mr-6" src="~icons/clients/hotspotty.svg" alt="">
-        <img class="clients mr-6" src="~icons/clients/unk.svg" alt="">
-      </div>
-      <div class="pt-4 flex">
-        <img class="clients-other mr-6" src="~icons/clients/comon.svg" alt="">
-        <img class="clients-other mr-6" src="~icons/clients/moita.svg" alt="">
-        <img class="clients-other mr-6" src="~icons/clients/ptc.svg" alt="">
-        <img class="clients-other mr-6" src="~icons/clients/oxy-1.svg" alt="">
-        <img class="clients-other mr-6" src="~icons/clients/xlr8.svg" alt="">
-      </div> -->
-    </div>
-      <img class="logo-buzzvel absolute" src="~icons/buzzvel/logo-buzzvel-black.svg">
+    <div class="footer absolute inset-x-0 bottom-0 left-0 pl-8"></div>
+    <img class="logo-buzzvel absolute" src="~icons/buzzvel/logo-buzzvel-black.svg">
   </div>
-<!-- 
-    <div class="profile relative h-1/4 bg-gray-900 text-center ">
-      <img src="~images/08.png" class="absolute inset-x-0 bottom-0 mb-40 rounded-full w-60 mx-auto polygon" alt="Avatar">
-      <h5 class="absolute inset-x-0 bottom-0  text-gray-100 text-2xl font-bold leading-tight">Luiz F. Lima</h5>
-      <p class="absolute inset-x-0 bottom-0 text-gray-100 text-2xs font-light">Back-end developer</p>
-    </div> -->
 </div>
 </template>
 <style>
